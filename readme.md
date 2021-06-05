@@ -10,5 +10,3 @@ Technologies Used:
  2.  Run `nodemon server.js`
  3.  Open `localhost:5000` in your browser to use it.
 
-
-Inspired by this video http://tiny.cc/l4kytz
